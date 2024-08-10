@@ -1,2 +1,2 @@
-# keyboard
+# KeyBoard
 keyboard controlled chess board
